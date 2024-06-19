@@ -52,3 +52,6 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+ANSWERS/SUBMISSION TO THE ASSIGNMENT
+
+[https://docs.google.com/document/d/1Z_RR1vcZxP2F_d3VYbKUbWX3vMWKgDJKSGFX8ktQgd4/edit?usp=sharing](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-bettvincent/blob/main/Setting%20Up%20Your%20Developer%20Environment.pdf) THE LINK ABOVE IS A REDIRECTION TO THE ASSIGNMENT DOCUMENTION. ATTACHED TO IT IS A LINK TO MY INITIALIZED GITHUB REPOSITORY
